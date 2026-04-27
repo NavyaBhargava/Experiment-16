@@ -101,6 +101,9 @@ Writing	Write
 Studies	Study
 Running	Run
 
+---
+
+
 nltk.download(): Downloads required NLP datasets like tokenizers, stopwords, and lexical resources.
 
 word_tokenize(): Splits text into individual words (tokens).
